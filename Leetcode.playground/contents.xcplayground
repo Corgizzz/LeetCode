@@ -3,5 +3,7 @@
     <pages>
         <page name='#1.Two Sum'/>
         <page name='#20. Valid Parentheses '/>
+        <page name='#169. Majority Element'/>
+        <page name='#121. Best Time to Buy and Sell Stock'/>
     </pages>
 </playground>
