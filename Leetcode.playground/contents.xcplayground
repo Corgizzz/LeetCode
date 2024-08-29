@@ -7,5 +7,7 @@
         <page name='#121. Best Time to Buy and Sell Stock'/>
         <page name='#217. Contains Duplicate'/>
         <page name='#75. Sort Colors'/>
+        <page name='#280.  Move Zeroes'/>
+        <page name='#977. Squares of a Sorted Array'/>
     </pages>
 </playground>
